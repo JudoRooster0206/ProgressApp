@@ -1,0 +1,17 @@
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\bin\Debug\ProgressRecords.exe.config
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\bin\Debug\ProgressRecords.exe
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\bin\Debug\ProgressRecords.pdb
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\ProgressRecords.csprojResolveAssemblyReference.cache
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\MainWindow.baml
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\MainWindow.g.cs
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\App.g.cs
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\ProgressRecords_MarkupCompile.cache
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\ProgressRecords.g.resources
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\ProgressRecords.Properties.Resources.resources
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\ProgressRecords.csproj.GenerateResource.Cache
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\ProgressRecords.exe
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\ProgressRecords.pdb
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\bin\Debug\ButtonTextbox.dll
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\bin\Debug\ButtonTextbox.pdb
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\UserControls\UserControl1.baml
+C:\Users\burton123\Documents\Visual Studio 2013\Projects\Apps\ProgressRecords\ProgressRecords\obj\Debug\UserControls\UserControl1.g.cs
