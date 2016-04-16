@@ -1,0 +1,16 @@
+﻿<Page x:Class="WpfApplication1.Main_Discipline_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApplication1"
+      mc:Ignorable="d"
+      Title="Main_Discipline_Page" Width="253" Height="70">
+    <Grid>
+        <DockPanel Width="253" Height="70">
+            <Button x:Name="ADD_Discipline_BUTTON" Margin="2,20,0,24" Width="75" Height="25" Content="+"/>
+            <TextBox x:Name="COUNT_Discipline_BOX" Margin="35,0,0,0" Width="25" Height="24"></TextBox>
+            <Button x:Name="DELETE_Discipline_BUTTON" Margin="28,0,0,0" Width="75" Height="25" Content="-"/>
+        </DockPanel>
+    </Grid>
+</Page>
